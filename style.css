@@ -1,0 +1,72 @@
+/* Write style code here*/
+#pizza
+{
+    background-color: rgb(20, 10, 82);
+    color: cyan;
+    margin-top:-8px;
+    border-bottom: 5px solid rgb(242, 242, 45);
+
+    padding: 20px;
+}
+
+.input
+{
+    border:none;
+     border-bottom: 1px solid black;
+     width: 90%;
+  
+   
+}
+#container
+{
+    margin-top: 40px;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px 6px pink;
+    height:120%;
+    width:75%;
+margin-left: 5cm;
+
+}
+
+#div1
+{
+    margin-left: 25px;
+    line-height: 1.1cm;
+}
+
+#fillup
+{
+    margin-left:15px ;
+    font-weight: lighter;
+}
+
+#lab1
+{
+  
+    margin-left: -6px;
+   
+}
+#totalamt
+{
+    background-color: rgb(167, 224, 167);
+    width: 70px;
+    margin-left: 25px;
+}
+.tot
+{
+    margin-left: 25px;
+
+}
+#sum
+{
+    background-color: rgb(6, 6, 102);
+    color: cyan;
+    width: 100px;
+    height: 40px;
+    margin-left: 25px;
+}
+
+body{
+    position: relative;
+}
+
